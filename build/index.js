@@ -3,6 +3,6 @@ function printaObjeto(pessoa) {
     console.log(pessoa);
 }
 printaObjeto({
-    name: "btuce wayne",
+    name: "bruce wayne",
     vulgo: "batman",
 });
